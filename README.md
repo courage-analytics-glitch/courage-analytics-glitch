@@ -1,16 +1,20 @@
-## Hi there 👋
+# Richard Courage Cobbinah
+Data Analytics Professional | Energy Sector | Petroleum Downstream | MSc Business Analytics
 
-<!--
-**courage-analytics-glitch/courage-analytics-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+14+ years experience in petroleum downstream operations and banking in Ghana.
+Building data analytics solutions for the energy sector.
 
-Here are some ideas to get you started:
+## Tools and Technologies
+- Python | SQL | Power BI | Excel
+- Kaggle: https://www.kaggle.com/SetorCourage
+- LinkedIn: https://www.linkedin.com/in/courage-cobbinah-56531255
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+| Certification | Issuer | Date | Verify |
+|---|---|---|---|
+| ISO 9001:2015 - Quality Management System (QMS) | Alison (CPD Certified) | June 2026 | [Verify](https://alison.com/verify/dca5b4f51f) |
+| W3Schools SQL Adaptive Certification (96%) | W3Schools | June 2026 | - |
+| Introduction to Power BI | DataCamp | 2026 | - |
+| Introduction to DAX in Power BI | DataCamp | 2026 | - |
+| Google Data Analytics Certificate | Google | In Progress | - |
