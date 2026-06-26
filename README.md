@@ -18,6 +18,7 @@ Data Analyst with 14+ years of professional experience in petroleum downstream o
 | Certification | Issuer | Score | Year |
 |---|---|---|---|
 | Advanced Diploma in Data Science with R | Alison | 88% | 2026 |
+| Introduction to Tableau Desktop | Alison | Pass | 2026 |
 | SQL Adaptive Certification | W3Schools | 96% | 2026 |
 | Introduction to Power BI | DataCamp | Pass | 2026 |
 | Introduction to DAX in Power BI | DataCamp | Pass | 2026 |
