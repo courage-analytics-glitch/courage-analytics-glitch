@@ -22,6 +22,7 @@ Data Analyst with 14+ years of professional experience in petroleum downstream o
 | SQL Adaptive Certification | W3Schools | 96% | 2026 |
 | Introduction to Power BI | DataCamp | Pass | 2026 |
 | Introduction to DAX in Power BI | DataCamp | Pass | 2026 |
+| Leadership and Team management | Skill up/ Coursera |June 2026 | REF3098YZMIL | |
 
 ---
 
