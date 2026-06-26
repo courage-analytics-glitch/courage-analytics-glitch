@@ -70,6 +70,34 @@ Kaggle notebook analyzing performance trends across Ghana's banking sector.
 ### Ghana Energy Statistics Dashboard
 6-page Power BI dashboard using Energy Commission Ghana data from 2000 to 2022.
 
+## Project 3: Ghana Petroleum Sector Analysis - R
+
+**Tool:** R (ggplot2, corrplot, dplyr)
+**Dataset:** Ghana Petroleum Data 2000-2023 (24 rows, 6 variables)
+
+### What Was Done
+
+- Built a Ghana petroleum dataset covering crude oil production, petrol consumption, diesel consumption, crude price, and petroleum revenue from 2000 to 2023
+- Produced 4 trend charts covering production, consumption, pricing, and revenue
+- Ran full correlation analysis using corrplot
+- Exported correlation matrix as PNG
+
+### Key Findings
+
+- Crude price vs petroleum revenue: 0.94 correlation. Price is the dominant revenue driver.
+- Petrol consumption vs revenue: 0.84. Domestic demand tracks strongly with earnings.
+- Crude production vs revenue: 0.47. Ghana's own production volume has limited impact on total revenue.
+- Revenue collapsed 47% between 2012 and 2016 when crude prices fell from $111 to $44.
+
+### Deliverables
+
+- Ghana_Petroleum_R_Analysis.R
+- Ghana_Petroleum_Correlation_Matrix.png
+
+### Outcome
+
+Correlation matrix and 4 charts produced. Full petroleum sector dynamics analysed across 24 years.
+
 ---
 
 ## Professional Experience
