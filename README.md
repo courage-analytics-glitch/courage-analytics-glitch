@@ -79,6 +79,9 @@ Kaggle notebook analyzing performance trends across Ghana's banking sector.
 
 ## Ghana Tax Revenue Tableau Dashboard- Tableau- Ghana_Tax_Revenue_Tableau_Analysis
 
+## VALCO SOE Performance Dashboard 1967-2025 
+Interactive Tableau dashboard covering 7 views: production trend, revenue vs aluminium price, capacity utilisation, workforce, power cost, revenue per tonne, and phase comparison. Accompanies the full Kaggle analysis. | Tableau Public https://public.tableau.com/app/profile/richard.cobbinah/viz/VALCOSOEPerformanceDashboard1967-2025 |  Kaggle |
+
 **Tool:** R (ggplot2, corrplot, dplyr)
 **Dataset:** Ghana Petroleum Data 2000-2023 (24 rows, 6 variables)
 
