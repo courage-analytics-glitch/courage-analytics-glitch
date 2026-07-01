@@ -5,6 +5,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-SetorCourage-20BEFF)](https://www.kaggle.com/SetorCourage)
 [![GitHub](https://img.shields.io/badge/GitHub-courage--analytics--glitch-black)](https://github.com/courage-analytics-glitch)
 [Ghana Tax Revenue Tableau Dashboard](https://public.tableau.com/app/profile/richard.cobbinah/viz/Ghana_Tax_Revenue_Tableau_Analysis)
+ [Kaggle](https://www.kaggle.com/code/setorcourage/valco-soe-performance-analysis1967-2025) 
+
 ---
 
 ## About Me
@@ -56,6 +58,8 @@ Ghana Institute of Management and Public Administration (GIMPA)
 
 ## Featured Projects
 
+## VALCO SOE Performance Analysis 1967-2025 
+59-year deep analysis of Ghana's only aluminium smelter. Covers production trends, revenue, capacity utilisation, workforce, power costs, and forecast. Includes USD 600M retrofit proposal assessment. | Python, Pandas, NumPy, Matplotlib 
 ### NPA OMC Performance Dashboard
 Power BI dashboard analyzing 213 licensed Oil Marketing Companies across 16 months using National Petroleum Authority data.
 
